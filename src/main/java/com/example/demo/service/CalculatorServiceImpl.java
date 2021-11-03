@@ -1,4 +1,4 @@
-package com.example.demo.seervice;
+package com.example.demo.service;
 
 //import org.testng.annotations.Test;
 
