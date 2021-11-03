@@ -1,4 +1,4 @@
-package com.example.junitTest.service;
+package com.example.demo.service;
 
 public interface CalculatorService {
     int [] getAll();
